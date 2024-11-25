@@ -9,15 +9,15 @@
 <head>
 
 	<meta charset="utf-8">
-	<title>Zen Home Cleaning | Servicii de curățenie</title>
+	<title>SoClean | Rengøring</title>
 	
 	<meta name="description" content="Păstrați-vă casa mai curată cu ajutorul serviciilor noastre profesionale de curățenie. Experții noștri sunt selectați, verificați cu atenție și instruiți profesionist pentru a-și însuși cunoștințele și procedurile necesare pentru a oferi servicii la cele mai înalte standarde de calitate.">
 	<meta name="robots" content="max-image-preview:large">
 	<link rel="canonical" href="https://zenhomecleaning.ro/">
 	<meta property="og:locale" content="ro_RO">
-	<meta property="og:site_name" content="Zen Home Cleaning | Servicii de curățenie">
+	<meta property="og:site_name" content="SoClean | Rengøring">
 	<meta property="og:type" content="website">
-	<meta property="og:title" content="Zen Home Cleaning | Servicii de curățenie">
+	<meta property="og:title" content="SoClean | Rengøring">
 	<meta property="og:description" content="Păstrați-vă casa mai curată cu ajutorul serviciilor noastre profesionale de curățenie. Experții noștri sunt selectați, verificați cu atenție și instruiți profesionist pentru a-și însuși cunoștințele și procedurile necesare pentru a oferi servicii la cele mai înalte standarde de calitate.">
 	<meta property="og:url" content="https://zenhomecleaning.ro/">
 	<meta property="og:image" content="https://zenhomecleaning.ro/images/logo_100_100.png">
@@ -25,7 +25,7 @@
 	<meta property="og:image:width" content="1000">
 	<meta property="og:image:height" content="250">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Zen Home Cleaning | Servicii de curățenie">
+	<meta name="twitter:title" content="SoClean | Rengøring">
 	<meta name="twitter:description" content="Păstrați-vă casa mai curată cu ajutorul serviciilor noastre profesionale de curățenie. Experții noștri sunt selectați, verificați cu atenție și instruiți profesionist pentru a-și însuși cunoștințele și procedurile necesare pentru a oferi servicii la cele mai înalte standarde de calitate.">
 	<meta name="twitter:image" content="https://zenhomecleaning.ro/images/logo_100_100.png">
 
@@ -51,15 +51,12 @@
 				<address class="contact-info">						
 					<div class="phones">
 						<!-- <a href="tel:0720997887"><i class="icon-telephone">&#xf095;</i> 0720 997 887</a> -->
-						<a href="tel:0767439439"><i class="icon-telephone">&#xf095;</i> 0767 439 439</a>
+						<a href="tel:0767439439"><i class="icon-telephone">&#xf095;</i> Ring til mig</a>
 					</div>
-					<a class="whats-app" href="https://api.whatsapp.com/send?phone=40767439439" target=_blank>
-						<div class="whats-app-icon"></div>
-					</a>
 				</address>
 				<ul class="slimmenu">
 					<li> 
-						<a class="scroll" href="#home-section">Acasă</a>
+						<a class="scroll" href="#home-section">Hjem</a>
 					</li>
 					<li> 
 						<a class="scroll" href="#services-section">Servicii oferite</a>
@@ -95,6 +92,83 @@
 			<source src="videos/zen-home-cleaning-horizontal.mp4" type="video/mp4">
 		</video>		
 		<a class="scroll" href="#about-section"><div class="scroll-btn tipped" data-title="about agency"  data-tipper-options='{"direction":"top","follow":"true"}'></div></a>
+	</section>
+
+	<section id="about-section">
+		<div class="container">
+			<div class="sixteen columns">
+			<h1><span>Hvorfor SoClean?</span></h1>
+				<div class="head-subtext"> Fordi vi er en gruppe betroede fagfolk, som tilbyder professionel service uden de sædvanlige materielle bekymringer.</div>
+			</div>
+			<div class="clear"></div>
+			<article class="one-third column" data-scrollreveal="enter left and move 50px over 1s"> 
+				<h3>Vores værdier</h3>
+				<div class="flipWrapper">
+					<div class="card">
+						<div class="face front">
+							<img src="images/about/values_620_670.webp" alt="Hands together" />
+							<div class="layover">
+								<p>Citește mai mult</p>
+							</div>
+						</div>
+						<div class="face back">
+							<!-- <p><b>Respect:</b> Ne alocăm timp pentru a înțelege necesitățile clienților noștri și respectăm alegerile acestora.</p> -->
+							<p><i class="flaticon-next"></i> Vi er en gruppe betroede fagfolk, som tilbyder professionel service uden de sædvanlige materielle bekymringer.</p>
+							<p><i class="flaticon-next"></i> Vi tjekker professionelles straffeattest.</p>
+							<p><i class="flaticon-next"></i> Vores lykkepolitik gør, at vores dygtige medarbejdere er glade for deres arbejde.</p>
+							<div class="layover">
+								<p>Tilbage</p>
+							</div>
+						</div>
+					</div>
+				</div>					
+			</article>
+			<article class="one-third column" data-scrollreveal="enter left and move 50px over 1s"> 
+				<h3>Siguranță și calitate</h3>
+				<div class="flipWrapper">
+					<div class="card">
+						<div class="face front">
+							<img src="images/about/safety_620_670.webp" alt="Hand wiping door handle" />
+							<div class="layover">
+								<p>Citește mai mult</p>
+							</div>
+						</div>
+						<div class="face back">
+							<p>Prioritatea noastră absolută este siguranța clienților noștri, lucru deosebit de important în general, dar mai ales în urma pandemiei.</p>
+							<p>De aceea am implementat politici si proceduri stricte, ce asigură nu doar un standard ridicat de calitate, dar și conformitatea serviciilor oferite cu regulile guvernamentale de sănătate și siguranță.</p>
+							<div class="layover">
+								<p>Înapoi</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</article>
+			<article class="one-third column" data-scrollreveal="enter left and move 50px over 1s"> 
+				<h3>Transparență</h3>
+				<div class="flipWrapper">
+					<div class="card">
+						<div class="face front">
+							<img src="images/about/transparency_620_670.webp" alt="Surveillance camera" />
+							<div class="layover">
+								<p>Citește mai mult</p>
+							</div>
+						</div>
+						<div class="face back">
+							<p>Suntem printre primele firme de curățenie din România care oferă, la cerere, live streaming în timpul curățeniei.</p>
+							<p>În plus, specialiștii noștri certificați sunt dispuși să ofere prezentări live ale serviciilor de curățenie profesionale pe care le oferim.</p>
+							<div class="layover">
+								<p>Înapoi</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</article>
+			<div class="clear"></div>
+			<h3 id="presentation-video-header">Video de prezentare</h3>
+			<div id="presentation-video">
+				<iframe allow="fullscreen;" src="https://www.youtube.com/embed/_ge2doiWrH0"></iframe>
+			</div>
+		</div>
 	</section>
 
 	<section id="services-section">
@@ -304,82 +378,6 @@
 		</div>
 	</section>
 
-	<section id="about-section">
-		<div class="container">
-			<div class="section-separator"></div>
-			<div class="sixteen columns">
-			<h1><span>Despre noi</span></h1>
-				<div class="head-subtext">Suntem unul dintre cei mai experimentați furnizori de servicii de curățenie profesionale, cu peste 10 ani de activitate în domeniu atât in România, cât și în Finlanda</div>
-			</div>
-			<div class="clear"></div>
-			<article class="one-third column" data-scrollreveal="enter left and move 50px over 1s"> 
-				<h3>Valorile noastre</h3>
-				<div class="flipWrapper">
-					<div class="card">
-						<div class="face front">
-							<img src="images/about/values_620_670.webp" alt="Hands together" />
-							<div class="layover">
-								<p>Citește mai mult</p>
-							</div>
-						</div>
-						<div class="face back">
-							<p><b>Respect:</b> Ne alocăm timp pentru a înțelege necesitățile clienților noștri și respectăm alegerile acestora.</p>
-							<p><b>Responsabilitate:</b> Acționăm cu integritate față de clienții noștri, colegi, comunitate și mediu.</p>
-							<p><b>Excelență:</b> Căutăm întotdeauna să oferim cea mai bună experiență în ceea ce privește calitatea serviciilor noastre.</p>
-							<div class="layover">
-								<p>Înapoi</p>
-							</div>
-						</div>
-					</div>
-				</div>					
-			</article>
-			<article class="one-third column" data-scrollreveal="enter left and move 50px over 1s"> 
-				<h3>Siguranță și calitate</h3>
-				<div class="flipWrapper">
-					<div class="card">
-						<div class="face front">
-							<img src="images/about/safety_620_670.webp" alt="Hand wiping door handle" />
-							<div class="layover">
-								<p>Citește mai mult</p>
-							</div>
-						</div>
-						<div class="face back">
-							<p>Prioritatea noastră absolută este siguranța clienților noștri, lucru deosebit de important în general, dar mai ales în urma pandemiei.</p>
-							<p>De aceea am implementat politici si proceduri stricte, ce asigură nu doar un standard ridicat de calitate, dar și conformitatea serviciilor oferite cu regulile guvernamentale de sănătate și siguranță.</p>
-							<div class="layover">
-								<p>Înapoi</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</article>
-			<article class="one-third column" data-scrollreveal="enter left and move 50px over 1s"> 
-				<h3>Transparență</h3>
-				<div class="flipWrapper">
-					<div class="card">
-						<div class="face front">
-							<img src="images/about/transparency_620_670.webp" alt="Surveillance camera" />
-							<div class="layover">
-								<p>Citește mai mult</p>
-							</div>
-						</div>
-						<div class="face back">
-							<p>Suntem printre primele firme de curățenie din România care oferă, la cerere, live streaming în timpul curățeniei.</p>
-							<p>În plus, specialiștii noștri certificați sunt dispuși să ofere prezentări live ale serviciilor de curățenie profesionale pe care le oferim.</p>
-							<div class="layover">
-								<p>Înapoi</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</article>
-			<div class="clear"></div>
-			<h3 id="presentation-video-header">Video de prezentare</h3>
-			<div id="presentation-video">
-				<iframe allow="fullscreen;" src="https://www.youtube.com/embed/_ge2doiWrH0"></iframe>
-			</div>
-		</div>
-	</section>
 
 	<section id="products-section">
 		<div class="container">
