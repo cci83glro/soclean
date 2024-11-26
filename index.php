@@ -58,20 +58,20 @@
 					<li> 
 						<a class="scroll" href="#home-section">Hjem</a>
 					</li>
-					<li> 
+					<!-- <li> 
 						<a class="scroll" href="#services-section">Servicii oferite</a>
-					</li>
-					<li> 
+					</li> -->
+					<!-- <li> 
 						<a class="scroll" href="#pricing-section">Prețuri</a>
-					</li>
+					</li> -->
 					<li>
-						<a class="scroll" href="#about-section">Despre noi</a>
+						<a class="scroll" href="#about-section">Om os</a>
 					</li>
-					<li>
+					<!-- <li>
 						<a class="scroll" href="#products-section">Produse utilizate</a>
-					</li>
+					</li> -->
 					<li>
-						<a class="scroll" href="#contact-section">Contact</a>
+						<a class="scroll" href="#contact-section">Kontakt</a>
 					</li>
 				</ul>
 			</div>
@@ -196,36 +196,36 @@
 						<a href="mailto:kontakt@soclean.dk"><i class="icon-contact1">&#xf0e0;</i>kontakt@soclean.dk</a>
 					</p>
 					<p class="five columns text-align-right">
-						<i class="icon-contact1">&#xf073;</i> Luni–Duminică: 10–18
+						<i class="icon-contact1">&#xf073;</i> Man-Fre: 09:00–16:00
 					</p>
 				</div>
 				<div class="contact-form">
 					<form name="ajax-form" id="ajax-form" action="mailer.php" method="post">
-						<h3>Formular de contact</h3>
-						<label for="name">Nume * 
-							<span class="error" id="err-name">Introduceți numele dvs.</span>
+						<h3>Skriv til os</h3>
+						<label for="name">Navn * 
+							<span class="error" id="err-name">Indsæt navn</span>
 						</label>								
 						<input name="name" id="name" type="text" />
 						<label for="email">E-Mail * 
-							<span class="error" id="err-email">Introducețt adresa de e-mail</span>
-							<span class="error" id="err-emailvld">Formatul adresei de e-mail nu este valid</span>
+							<span class="error" id="err-email">Indsæt e-mail adresse</span>
+							<span class="error" id="err-emailvld">E-mail format ikke gyldigt</span>
 						</label>
 						<input name="email" id="email" type="text" />
 						<label for="phone">Telefon
-							<span class="error" id="err-phone">Introduceți numărul de telefon</span>
+							<span class="error" id="err-phone">Indsæt telefonnummer</span>
 						</label>								
 						<input name="phone" id="phone" type="text" />
-						<label for="message">Mesaj</label>
+						<label for="message">Besked</label>
 						<textarea name="message" id="message"></textarea>
 						<div class="button-container">
-							<button class="action-button" id="send">Trimite mesaj</button>
+							<button class="action-button" id="send">Send besked</button>
 							<img class="loader" src="images/loader.gif" alt="Loader image" />
 						</div>
-						<div class="error text-align-center" id="err-form">Datele introduse nu sunt valide!</div>
-						<div class="error text-align-center" id="err-timedout">Conexiunea către server a expirat!</div>
+						<div class="error text-align-center" id="err-form">Ugyldigt data!</div>
+						<div class="error text-align-center" id="err-timedout">Serverforbindelsen er afbrydt!</div>
 						<div class="error" id="err-state"></div>
 					</form>
-					<div id="ajaxsuccess">Mesajul a fost trimis!</div>
+					<div id="ajaxsuccess">Besked sendt!</div>
 				</div>
 			</div>	
 		</div>
@@ -239,10 +239,10 @@
 			<!-- <p><small>Trepavo Creative Agency</small></p> -->
 			<ul id="footer-nav">
 				<li>
-					<a href="#" class="open-modal" data-ref-id="cookies-policy">Politica de cookies</a>
+					<a href="#" class="open-modal" data-ref-id="cookies-policy">Cookiespolitik</a>
 				</li>
 				<li>
-					<a href="#" class="open-modal" data-ref-id="confidentiality-policy">Politica de confidențialitate</a>
+					<a href="#" class="open-modal" data-ref-id="confidentiality-policy">Fortrolighedspolitik</a>
 				</li>
 			</ul>
 			
@@ -253,13 +253,13 @@
 		<div class="modal-dialog">
 			<div class="modal-content"> 
 				<div class="modal-header"> 
-					<h1 class="modal-title">Politica de cookies</h1>
+					<h1 class="modal-title">Cookiespolitik</h1>
 				</div> 
 				<div class="modal-body">
-					<?php include_once "cookies-policy.php" ?>
+					<?php include_once "cookies-politik.php" ?>
 				</div> 
 				<div class="modal-footer">
-					<button class="action-button close-modal">Închide</button>
+					<button class="action-button close-modal">Luk</button>
 				</div>
 			</div>
 		</div>		
@@ -269,13 +269,13 @@
 		<div class="modal-dialog">
 			<div class="modal-content"> 
 				<div class="modal-header"> 
-					<h1 class="modal-title">Politica de confidențialitate</h1>
+					<h1 class="modal-title">Fortrolighedspolitik</h1>
 				</div> 
 				<div class="modal-body">
-					<?php include_once "confidentiality-policy.php" ?>
+					<?php include_once "persondata-politik.php" ?>
 				</div> 
 				<div class="modal-footer">
-					<button class="action-button close-modal">Închide</button>
+					<button class="action-button close-modal">Luk</button>
 				</div>
 			</div>
 		</div>		
