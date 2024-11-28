@@ -2,12 +2,11 @@
 	"use strict";
 	
 	var document = window.document;
-	var cookie_name = "zenHomeCleaningConsentCookie";
-	var box_title_text = "Notificare cookies";
-	var box_content_text = "Acest website colectează și utilizează cookies pentru a oferi utilizatorilor o experiență personalizată.<br />"
-							+"Prin continuarea navigării sunteți de acord cu politica noastră de cookies și prelucrare a datelor personale.";
-	var text_button_accept_required = "Acceptă necesare";
-	var text_button_accept_all = "Acceptă toate";
+	var cookie_name = "cleanCleaningConsentCookie";
+	var box_title_text = "Du bestemmer over dine data";
+	var box_content_text = "<p>Denne hjemmeside bruger cookies. <br />Ved at fortsætte er du enig med vores Cookiepolitik.</p>";
+	var text_button_accept_required = "Tillad nødvendige";
+	var text_button_accept_all = "Tillad alle";
 	
 	function log() {
 		if (window.console && window.console.log) {

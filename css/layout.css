@@ -1576,6 +1576,10 @@ section h1 {
 	transition: opacity 500ms ease-in-out;
 	display: none;
 }
+.modal h3 {
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
 .modal-dialog {
 	overflow-y: initial !important;
 	overflow-y: scroll;

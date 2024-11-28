@@ -239,17 +239,17 @@
 			<!-- <p><small>Trepavo Creative Agency</small></p> -->
 			<ul id="footer-nav">
 				<li>
-					<a href="#" class="open-modal" data-ref-id="cookies-policy">Cookiespolitik</a>
+					<a href="#" class="open-modal" data-ref-id="cookies-policy-popup">Cookiespolitik</a>
 				</li>
 				<li>
-					<a href="#" class="open-modal" data-ref-id="confidentiality-policy">Fortrolighedspolitik</a>
+					<a href="#" class="open-modal" data-ref-id="confidentiality-policy-popup">Fortrolighedspolitik</a>
 				</li>
 			</ul>
 			
 		</div>	
 	</div>
 
-	<div id="cookies-policy" class="modal" tabindex="-1" role="dialog">
+	<div id="cookies-policy-popup" class="modal" tabindex="-1" role="dialog">
 		<div class="modal-dialog">
 			<div class="modal-content"> 
 				<div class="modal-header"> 
@@ -265,11 +265,11 @@
 		</div>		
 	</div>
 
-	<div id="confidentiality-policy" class="modal" tabindex="-1" role="dialog">
+	<div id="confidentiality-policy-popup" class="modal" tabindex="-1" role="dialog">
 		<div class="modal-dialog">
 			<div class="modal-content"> 
 				<div class="modal-header"> 
-					<h1 class="modal-title">Fortrolighedspolitik</h1>
+					<h1 class="modal-title">Persondatapolitik</h1>
 				</div> 
 				<div class="modal-body">
 					<?php include_once "persondata-politik.php" ?>
