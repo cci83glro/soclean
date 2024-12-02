@@ -30,14 +30,16 @@
 
 	/* colors */
 	--main-text-color: #000;
-	--main-bg-color: #e1e1e1;
+	/* --main-bg-color: #e1e1e1; */
+	--main-bg-color: #fff;
 	--main-bg-color-transparent: rgba(225, 225, 225, .8);
-	--menu-bg-color-transparent: rgba(255,255,255, .8);
+	/* --menu-bg-color-transparent: rgba(255,255,255, .8); */
 	--gray-transparent: rgba(60,60,60,.8);
 	--primary-color: #2cb34f;
-	--primary-color-transparent: rgba(196, 160, 72, .8);
-	--black-color: #000;
-	--black-color-transparent: rgba(0,0,0,.8);
+	--primary-color-transparent: rgba(44,179,79, .8);
+	--secondary-color: #000;
+	--secondary-color-transparent: rgba(0,0,0,.8);
+	--ternary-color: #fff;
 
 	--font-hand: "Dancing Script";
 	--box-border-radius: 10px;
@@ -84,7 +86,7 @@
 }
 
 	h1, h2, h3, h4, h5, h6 {
-		color: var(--black-color);
+		color: var(--secondary-color);
 		/* color: var(--gold-color); */
 		/* font-family: var(--font-hand); */
 		text-align:center;

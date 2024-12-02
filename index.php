@@ -13,25 +13,25 @@
 	
 	<meta name="description" content="Păstrați-vă casa mai curată cu ajutorul serviciilor noastre profesionale de curățenie. Experții noștri sunt selectați, verificați cu atenție și instruiți profesionist pentru a-și însuși cunoștințele și procedurile necesare pentru a oferi servicii la cele mai înalte standarde de calitate.">
 	<meta name="robots" content="max-image-preview:large">
-	<link rel="canonical" href="https://zenhomecleaning.ro/">
-	<meta property="og:locale" content="ro_RO">
-	<meta property="og:site_name" content="SoClean | Rengøring">
+	<link rel="canonical" href="https://cleancleaning.dk/">
+	<meta property="og:locale" content="da_DK">
+	<meta property="og:site_name" content="CleanCleaning | Rengøring">
 	<meta property="og:type" content="website">
-	<meta property="og:title" content="SoClean | Rengøring">
+	<meta property="og:title" content="CleanCleaning | Rengøring">
 	<meta property="og:description" content="Păstrați-vă casa mai curată cu ajutorul serviciilor noastre profesionale de curățenie. Experții noștri sunt selectați, verificați cu atenție și instruiți profesionist pentru a-și însuși cunoștințele și procedurile necesare pentru a oferi servicii la cele mai înalte standarde de calitate.">
-	<meta property="og:url" content="https://zenhomecleaning.ro/">
-	<meta property="og:image" content="https://zenhomecleaning.ro/images/logo_100_100.png">
-	<meta property="og:image:secure_url" content="https://zenhomecleaning.ro/images/logo_100_100.png">
+	<meta property="og:url" content="https://cleancleaning.dk/">
+	<meta property="og:image" content="https://cleancleaning.dk/images/logo.png">
+	<meta property="og:image:secure_url" content="https://cleancleaning.dk/images/logo.png">
 	<meta property="og:image:width" content="1000">
 	<meta property="og:image:height" content="250">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="SoClean | Rengøring">
+	<meta name="twitter:title" content="CleanCleaning | Rengøring">
 	<meta name="twitter:description" content="Păstrați-vă casa mai curată cu ajutorul serviciilor noastre profesionale de curățenie. Experții noștri sunt selectați, verificați cu atenție și instruiți profesionist pentru a-și însuși cunoștințele și procedurile necesare pentru a oferi servicii la cele mai înalte standarde de calitate.">
-	<meta name="twitter:image" content="https://zenhomecleaning.ro/images/logo_100_100.png">
+	<meta name="twitter:image" content="https://cleancleaning.dk/images/logo.png">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1">
 		
-	<link rel="icon" type="image/png" href="images/logo_50_50.png">
+	<link rel="icon" type="image/png" href="images/logo.png">
 	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
@@ -41,8 +41,6 @@
 	
 </head>
 
-<?php include_once "config/google-analytics.php" ?>
-
 <body>
 	<div id="menu-wrap" class="menu-back cbp-af-header">
 		<div class="container">
@@ -50,26 +48,16 @@
 				<div class="logo"></div>
 				<address class="contact-info">						
 					<div class="phones">
-						<!-- <a href="tel:0720997887"><i class="icon-telephone">&#xf095;</i> 0720 997 887</a> -->
-						<a href="tel:0767439439"><i class="icon-telephone">&#xf095;</i> Ring til mig</a>
+						<a href="tel:60627805"><i class="icon-telephone">&#xf095;</i>&nbsp; 6062 7805</a>
 					</div>
 				</address>
 				<ul class="slimmenu">
 					<li> 
 						<a class="scroll" href="#home-section">Hjem</a>
 					</li>
-					<!-- <li> 
-						<a class="scroll" href="#services-section">Servicii oferite</a>
-					</li> -->
-					<!-- <li> 
-						<a class="scroll" href="#pricing-section">Prețuri</a>
-					</li> -->
 					<li>
 						<a class="scroll" href="#about-section">Om os</a>
 					</li>
-					<!-- <li>
-						<a class="scroll" href="#products-section">Produse utilizate</a>
-					</li> -->
 					<li>
 						<a class="scroll" href="#contact-section">Kontakt</a>
 					</li>
@@ -81,16 +69,16 @@
 	<section id="home-section">
 		<div class="big-text">
 			<ul class="flippy">
-				<li><span>Zen Home Cleaning</span></li>
-				<li><span>Respect</span></li>
-				<li><span>Responsabilitate</span></li>
-				<li><span>Excelență</span></li>
+				<li><span>Clean Cleaning</span></li>
+				<li><span>Professionalisme</span></li>
+				<li><span>Ansvar</span></li>
+				<li><span>Kvalitet</span></li>
 			</ul>
 		</div>
-		<div class="small-text">- Recapătă-ți zen-ul, ne ocupăm noi de curățenie -</div>
-		<video id="video-background" playsinline autoplay muted loop poster="images/video-banner.webp">
+		<div class="small-text">- Vi gør rent for dig mens du slapper af -</div>
+		<!-- <video id="video-background" playsinline autoplay muted loop poster="images/video-banner.webp">
 			<source src="videos/zen-home-cleaning-horizontal.mp4" type="video/mp4">
-		</video>		
+		</video>		 -->
 		<a class="scroll" href="#about-section"><div class="scroll-btn tipped" data-title="about agency"  data-tipper-options='{"direction":"top","follow":"true"}'></div></a>
 	</section>
 
@@ -187,15 +175,15 @@
 						<i class="icon-contact1">&#xf095;</i>
 						<a href="tel:0767439439">0767 439 439</a>
 					</p> -->
-					<p class="five columns text-align-left">
+					<p class="contact-item text-align-left">
 						<i class="icon-contact1">&#xf095;</i>
 						<a href="tel:60627805">6062 7805</a>
 					</p>
 					<!-- <p><a target=_blank href="https://goo.gl/maps/8fSioDuxD2GWXHzB8"><i class="icon-contact1">&#xf041;</i>Strada Frumoasă 39, București 010986</a></p> -->
-					<p class="five columns text-align-center">
+					<p class="contact-item text-align-center">
 						<a href="mailto:kontakt@soclean.dk"><i class="icon-contact1">&#xf0e0;</i>kontakt@soclean.dk</a>
 					</p>
-					<p class="five columns text-align-right">
+					<p class="contact-item text-align-right">
 						<i class="icon-contact1">&#xf073;</i> Man-Fre: 09:00–16:00
 					</p>
 				</div>
@@ -239,21 +227,24 @@
 			<!-- <p><small>Trepavo Creative Agency</small></p> -->
 			<ul id="footer-nav">
 				<li>
-					<a href="#" class="open-modal" data-ref-id="cookies-policy-popup">Cookiespolitik</a>
+					<a href="#" class="open-modal" data-ref-id="c-policy-popup">Cookies politik</a>
 				</li>
 				<li>
-					<a href="#" class="open-modal" data-ref-id="confidentiality-policy-popup">Fortrolighedspolitik</a>
-				</li>
+					<a href="#" class="open-modal" data-ref-id="confidentiality-policy-popup">Persondata politik</a>
+				<!-- </li>
+				<li>
+				<a href="#" class="open-modal" data-ref-id="c-policy-popup">Fortrolighedspolitik 2</a>
+				</li> -->
 			</ul>
 			
 		</div>	
 	</div>
 
-	<div id="cookies-policy-popup" class="modal" tabindex="-1" role="dialog">
+	<div id="c-policy-popup" class="modal" tabindex="-1" role="dialog">
 		<div class="modal-dialog">
 			<div class="modal-content"> 
 				<div class="modal-header"> 
-					<h1 class="modal-title">Cookiespolitik</h1>
+					<h1 class="modal-title">Cookies politik</h1>
 				</div> 
 				<div class="modal-body">
 					<?php include_once "cookies-politik.php" ?>
@@ -269,7 +260,7 @@
 		<div class="modal-dialog">
 			<div class="modal-content"> 
 				<div class="modal-header"> 
-					<h1 class="modal-title">Persondatapolitik</h1>
+					<h1 class="modal-title">Persondata politik</h1>
 				</div> 
 				<div class="modal-body">
 					<?php include_once "persondata-politik.php" ?>

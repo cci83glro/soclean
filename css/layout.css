@@ -208,7 +208,7 @@ body.royal_loader {
 }
 
 .menu-back{
-	background:var(--menu-bg-color-transparent);
+	background:var(--primary-color-transparent);
 }
 
 ul.slimmenu li ul li a {
@@ -247,7 +247,7 @@ ul.slimmenu li ul {
 
 .contact-info a {
 	display: block;
-	color: var(--primary-color);
+	color: var(--ternary-color);
 	font-size: var(--header-font-size-mobile);
 	font-weight: bold;
 }
@@ -267,7 +267,7 @@ ul.slimmenu li ul {
 .contact-info .phones {
 	display: inline-block;
 	color: var(--main-text-color);
-	transform: translateY(-60%);
+	transform: translateY(50%);
 }
 
 .menu-collapser {
@@ -309,14 +309,14 @@ ul.slimmenu li ul {
 }
 .collapse-button:hover, .collapse-button:focus {
     background-image: none;
-    background-color: var(--black-color);
+    background-color: var(--secondary-color);
 }
 .collapse-button:hover .icon-bar, .collapse-button:focus .icon-bar {
 	background-color: var(--main-bg-color);
 }
 
 .collapse-button .icon-bar {
-    background-color: var(--black-color);
+    background-color: var(--secondary-color);
     border-radius: 1px 1px 1px 1px;
     box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
     display: block;
@@ -344,7 +344,7 @@ ul.slimmenu > li:first-child { border-left: 0 }
 ul.slimmenu > li:last-child { margin-right: 0 }
 ul.slimmenu li a {
     display: block;
-    color: var(--main-text-color);
+    color: var(--ternary-color);
     padding: 10px 0px;
 	cursor:pointer;
     margin: 0px 12px;
@@ -876,6 +876,12 @@ h1 span:after  {
 	padding:20px 5px 40px 5px;
 	background:var(--main-bg-color);
 }
+
+.contact-data-wrap > .contact-item {
+	display: inline-block;
+	width: 33%;
+}
+
 .contact-data-wrap > p > a{
 	color: var(--main-text-color);
 	margin-right: 25px;
@@ -950,7 +956,7 @@ input{
 	background: rgba(0,0,0,0);
 }
 input[type="text"]{
-	border:1px solid var(--black-color);
+	border:1px solid var(--secondary-color);
 	margin-top: 2px;
 }
 textarea {
@@ -972,7 +978,7 @@ textarea {
 }
 #ajaxsuccess {
 	background: transparent;
-	color:var(--black-color-transparent);
+	color:var(--secondary-color-transparent);
 	font: 20px/60px 'Roboto', sans-serif;
 	height:60px;
 	display: none;
@@ -1008,21 +1014,21 @@ textarea {
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	line-height:20px;
-	color:#fff;
-	background: var(--gray-transparent);
+	color:var(--ternary-color);
+	background: var(--primary-color);
 	text-transform:uppercase;
 	-webkit-border-radius: var(--box-border-radius);
 	border-radius: var(--box-border-radius);
  }
 .action-button:hover{
-	background: rgba(0,0,0,.6);
+	background: var(--primary-color-transparent);
+	color:var(--ternary-color);
  }
 .action-button:focus{ 
     outline: none !important;
  }
 .text-align-center{
 	text-align:center;
-	padding-top:10px;
  }
 	#ajax-form textarea:active,
 	#ajax-form input:active {	
@@ -1063,7 +1069,7 @@ textarea {
 	position: relative; 
 	margin: 0 auto;
 	width: 95%;
-	background:var(--gray-transparent);
+	background:var(--primary-color);
 	padding:25px 0 15px 0;	
 	font-size: var(--footer-font-size-mobile);
 }
@@ -1115,7 +1121,10 @@ textarea {
 	margin-right: 0;
 }
 #footer-nav a{
-	color: #fff;
+	color: var(--ternary-color);
+}
+#footer .container {
+	text-align: center;
 }
 
 /* #services-section
@@ -1403,7 +1412,7 @@ iframe{
 }
 
 .price-calculator-section > .extra-service-toggle > .toggle-wrapper > label{
-	background: var(--black-color);
+	background: var(--secondary-color);
 	border-radius: 45px;
 	display: inline-block;
 	height: 24px;
@@ -1506,7 +1515,7 @@ input[type="range"] {
 }
 
 input[type='range']::-webkit-slider-runnable-track{
-	background: var(--black-color);
+	background: var(--secondary-color);
 	height: 5px;
 }
 
@@ -1522,7 +1531,7 @@ input[type="range"]::-webkit-slider-thumb {
 }
 
 input[type="range"]::-moz-range-track {
-	background: var(--black-color);
+	background: var(--secondary-color);
 	height: 5px;
 }
 
@@ -1565,7 +1574,7 @@ section h1 {
 
 .modal {
 	z-index: 20000;
-	color: var(--black-color);
+	color: var(--secondary-color);
 	position: fixed;
 	width: 100%;
 	height: 90%;
@@ -1643,7 +1652,7 @@ section h1 {
 		height:60px;
 		left:5px;
 		top:10px;
-		background:url('../images/logo_100_100.png') no-repeat center center;
+		background:url('../images/logo.png') no-repeat center center;
 		background-size:60px 60px;
 	}
 	ul.slimmenu li a:hover {
@@ -1672,6 +1681,12 @@ section h1 {
 	}
 	.price-calculator-section > h4 {
 		font-size: 18px;
+	}
+
+	.contact-data-wrap > .contact-item {
+		display: block;
+		width: 100%;
+		text-align: center !important;
 	}
 }
 
