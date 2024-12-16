@@ -6,8 +6,6 @@
 <p>Det er muligt at slette eller blokere for cookies. Se vejledning: http://minecookies.org/cookiehandtering</p>
 <p>Hvis du sletter eller blokerer cookies vil annoncer kunne blive mindre relevante for dig og optræde hyppigere. Du kan desuden risikere at websitet ikke fungerer optimalt samt at der er indhold, du ikke kan få adgang til.</p>
 
-<h2 class="subsection-title">Personoplysninger</h2>
-
 <h3>Generelt</h3>
 <p>Personoplysninger er alle slags informationer, der i et eller andet omfang kan henføres til dig. Når du benytter vores website indsamler og behandler vi en række sådanne informationer. Det sker f.eks. ved alm. tilgang af indhold, hvis du tilmelder dig vores nyhedsbrev, deltager i konkurrencer eller undersøgelser, registrerer dig som bruger eller abonnent, øvrig brug af services eller foretager køb via websitet.</p>
 <p>Vi indsamler og behandler typisk følgende typer af oplysninger: Et unikt ID og tekniske oplysninger om din computer, tablet eller mobiltelefon, dit IP-nummer, geografisk placering, samt hvilke sider du klikker på (interesser). I det omfang du selv giver eksplicit samtykke hertil og selv indtaster informationerne behandles desuden: Navn, telefonnummer, e-mail, adresse og betalingsoplysninger. Det vil typisk være i forbindelse med oprettelse af login eller ved køb.</p>
@@ -29,14 +27,14 @@
 <p>Videregivelse af personoplysninger som navn og e-mail m.v. vil kun ske, hvis du giver samtykke til det. Vi anvender kun databehandlere i EU eller i lande, der kan give dine oplysninger en tilstrækkelig beskyttelse.</p>
 
 <h3>Indsigt og klager</h3>
-<p>Du har ret til at få oplyst, hvilke personoplysninger, vi behandler om dig i et almindeligt format (dataportabilitet). Du kan desuden til enhver tid gøre indsigelse mod, at oplysninger anvendes. Du kan også tilbagekalde dit samtykke til, at der bliver behandlet oplysninger om dig. Hvis de oplysninger, der behandles om dig, er forkerte har du ret til at de bliver rettet eller slettet. Henvendelse herom kan ske til: letvikar@gmail.com. Hvis du vil klage over vores behandling af dine personoplysninger, har du også mulighed for at tage kontakt til Datatilsynet.</p>
+<p>Du har ret til at få oplyst, hvilke personoplysninger, vi behandler om dig i et almindeligt format (dataportabilitet). Du kan desuden til enhver tid gøre indsigelse mod, at oplysninger anvendes. Du kan også tilbagekalde dit samtykke til, at der bliver behandlet oplysninger om dig. Hvis de oplysninger, der behandles om dig, er forkerte har du ret til at de bliver rettet eller slettet. Henvendelse herom kan ske til: CleanClean311@gmail.com. Hvis du vil klage over vores behandling af dine personoplysninger, har du også mulighed for at tage kontakt til Datatilsynet.</p>
 <p>Ønsker du ikke længere, at vi skal behandle dine personoplysninger, eller at vi skal begrænse behandlingen af dine personoplysninger, kan du også sende os en anmodning herom til ovennævnte e-mailadresse.</p>
 
 <h3>Udgiver</h3>
 <p>Websitet ejes og publiceres af:</p>
 
-<p>LETVIKAR ApS<br/>
-Herstedvang 7A, 2. tv.<br/>
-2620 Albertslund<br/>
-Telefon: 32248484<br/>
-Email: letvikar@gmail.com</p>
+<p>Clean Cleaning<br/>
+Værebrovej 48, 6. 3.<br/>
+2880 Bagsværd<br/>
+Telefon: 60627805<br/>
+Email: CleanClean311@gmail.com</p>

@@ -45,7 +45,7 @@ if (array_key_exists('email', $_POST)) {
         $mail->addAddress($smtp_toEmail);
         
         if ($mail->addReplyTo($_POST['email'], $_POST['name'])) {
-            $mail->Subject = "Detaliere ofertă de preț";
+            $mail->Subject = "Ny besked";
             //Keep it simple - don't use HTML
             $mail->isHTML(false);
             //Build a simple message body
@@ -66,19 +66,19 @@ if (array_key_exists('email', $_POST)) {
     
                 $response = [
                     "status" => false,
-                    "message" => 'Eroare la trimiterea mesajului!<br/>Vă rugăm reveniți mai târziu sau contactați-ne telefonic sau prin email.'
+                    "message" => 'Fejl ved afsendelse af besked. Prøv venligst igen senere'
                     //"debug" => $mail->ErrorInfo
                 ];
             } else {
                 $response = [
                     "status" => true,
-                    "message" => 'Mulțumim pentru mesaj!<br/>Vă vom contacta cât mai curând posibil.'
+                    "message" => 'Tak for beskeden!<br/>Du hører fra os snarest muligt.'
                 ];
             }
         } else {
             $response = [
                 "status" => false,
-                "message" => 'Adresa de email nu este validă!'
+                "message" => 'Ugyldig email addresse!'
             ];
         }
 

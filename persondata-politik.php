@@ -1,4 +1,4 @@
-<p>Vi indhenter kun persondata i de tilfælde, hvor dette skulle være relevant for os, og vi vil kun indhente persondata, hvis det er relevant for din aktivitet hos LETVIKAR ApS.</p>
+<p>Vi indhenter kun persondata i de tilfælde, hvor dette skulle være relevant for os, og vi vil kun indhente persondata, hvis det er relevant for din aktivitet hos Clean Cleaning.</p>
 <p>Ved indsamling, behandling og anvendelse af dine persondata overholder vi altid alle relevante lovbestemmelser.</p>
 <p>Vi vil kun opbevare dine persondata, så længe vi enten er pålagt en juridisk forpligtelse hertil, eller så længe det er relevant for den hensigt, hvormed de blev indsamlet.</p>
 
@@ -6,11 +6,11 @@
 
 <p>Hvis du ønsker at købe og modtage et produkt eller en ydelse fra os, har vi brug for at indsamle visse persondata for at kunne gennemføre handlen og for at kunne tilbyde dig vores services. Vi kan bruge cookies til at holde styr på indholdet i din indkøbskurv, mens du bruger vores webshop.</p>
 <p>Vi kan indhente oplysninger som f.eks. navn, e-mailadresse, postadresse, leveringsadresse (hvis den varierer fra postadresse), telefonnummer og betalingsoplysninger.</p>
-<p>LETVIKAR ApS indsamler og behandler dine persondata, når du bruger kontaktformularen til at skrive til os.</p>
+<p>Clean Cleaning indsamler og behandler dine persondata, når du bruger kontaktformularen til at skrive til os.</p>
 
 <h3>Den dataansvarlige</h3>
 
-<p>Den dataansvarlige for indsamling, behandling og anvendelse af dine personoplysninger på www.letvikar.dk er LETVIKAR ApS, Herstedvang 7A, 2. tv., 2620 Albertslund, cvr nr. 43405136.</p>
+<p>Den dataansvarlige for indsamling, behandling og anvendelse af dine personoplysninger på www.cleancleaning.dk er Clean Cleaning, Værebrovej 48, 6. 3., 2880 Bagsværd, cvr nr. 45273172.</p>
 
 <h3>Behandlingsgrundlag og formål</h3>
 
@@ -26,11 +26,7 @@
 
 <h3>Dine rettigheder</h3>
 
-<p>Som den registrerede har du en række rettigheder, som vi til enhver tid skal sikre opfyldelse af. Du har ret til at anmode os om følgende:</p>
-<ul>
-	<li>At få adgang til og få rettet/ændret dine persondata</li>
-	<li>At få slettet persondata</li>
-</ul>
+<p>Som den registrerede har du en række rettigheder, som vi til enhver tid skal sikre opfyldelse af. Du har ret til at anmode os om at få adgang til og få rettet/ændret dine persondata eller at få slettet dine persondata.</p>
 
 <p>Du har derudover ret til at protestere over behandlingen af dine personlige data, og du har ret til at indgive klage til en databeskyttelsesmyndighed.</p>
-<p>Ønsker du ikke længere, at vi skal behandle dine personoplysninger, eller at vi skal begrænse behandlingen af dine personoplysninger, kan du også sende os en anmodning herom til vores e-mailadresse kontakt@letvikar.dk.</p>
+<p>Ønsker du ikke længere, at vi skal behandle dine personoplysninger, eller at vi skal begrænse behandlingen af dine personoplysninger, kan du også sende os en anmodning herom til vores e-mailadresse CleanClean311@gmail.com</p>

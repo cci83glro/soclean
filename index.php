@@ -9,24 +9,24 @@
 <head>
 
 	<meta charset="utf-8">
-	<title>SoClean | Rengøring</title>
+	<title>Clean Cleaning | Rengøring</title>
 	
-	<meta name="description" content="Păstrați-vă casa mai curată cu ajutorul serviciilor noastre profesionale de curățenie. Experții noștri sunt selectați, verificați cu atenție și instruiți profesionist pentru a-și însuși cunoștințele și procedurile necesare pentru a oferi servicii la cele mai înalte standarde de calitate.">
+	<meta name="description" content="Vi er en gruppe betroede fagfolk, som går rigtig meget op i det kvalitetsniveau, vi tilbyder vores kunder.">
 	<meta name="robots" content="max-image-preview:large">
 	<link rel="canonical" href="https://cleancleaning.dk/">
 	<meta property="og:locale" content="da_DK">
-	<meta property="og:site_name" content="CleanCleaning | Rengøring">
+	<meta property="og:site_name" content="Clean Cleaning | Rengøring">
 	<meta property="og:type" content="website">
-	<meta property="og:title" content="CleanCleaning | Rengøring">
-	<meta property="og:description" content="Păstrați-vă casa mai curată cu ajutorul serviciilor noastre profesionale de curățenie. Experții noștri sunt selectați, verificați cu atenție și instruiți profesionist pentru a-și însuși cunoștințele și procedurile necesare pentru a oferi servicii la cele mai înalte standarde de calitate.">
+	<meta property="og:title" content="Clean Cleaning | Rengøring">
+	<meta property="og:description" content="Vi er en gruppe betroede fagfolk, som går rigtig meget op i det kvalitetsniveau, vi tilbyder vores kunder.">
 	<meta property="og:url" content="https://cleancleaning.dk/">
 	<meta property="og:image" content="https://cleancleaning.dk/images/logo.png">
 	<meta property="og:image:secure_url" content="https://cleancleaning.dk/images/logo.png">
 	<meta property="og:image:width" content="1000">
 	<meta property="og:image:height" content="250">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="CleanCleaning | Rengøring">
-	<meta name="twitter:description" content="Păstrați-vă casa mai curată cu ajutorul serviciilor noastre profesionale de curățenie. Experții noștri sunt selectați, verificați cu atenție și instruiți profesionist pentru a-și însuși cunoștințele și procedurile necesare pentru a oferi servicii la cele mai înalte standarde de calitate.">
+	<meta name="twitter:title" content="Clean Cleaning | Rengøring">
+	<meta name="twitter:description" content="Vi er en gruppe betroede fagfolk, som går rigtig meget op i det kvalitetsniveau, vi tilbyder vores kunder.">
 	<meta name="twitter:image" content="https://cleancleaning.dk/images/logo.png">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1">
@@ -76,16 +76,15 @@
 			</ul>
 		</div>
 		<div class="small-text">- Vi gør rent for dig mens du slapper af -</div>
-		<!-- <video id="video-background" playsinline autoplay muted loop poster="images/video-banner.webp">
-			<source src="videos/zen-home-cleaning-horizontal.mp4" type="video/mp4">
-		</video>		 -->
+		<div id="image-background-title">
+		</div>		
 		<a class="scroll" href="#about-section"><div class="scroll-btn tipped" data-title="about agency"  data-tipper-options='{"direction":"top","follow":"true"}'></div></a>
 	</section>
 
 	<section id="about-section">
 		<div class="container">
 			<div class="sixteen columns">
-			<h1><span>Hvorfor SoClean?</span></h1>
+			<h1><span>Hvorfor Clean Cleaning?</span></h1>
 				<div class="head-subtext"> Fordi vi er en gruppe betroede fagfolk, som går rigtig meget op i det kvalitetsniveau, vi tilbyder vores kunder.</div>
 			</div>
 			<div class="clear"></div>
@@ -158,10 +157,6 @@
 				</div>
 			</article>
 			<div class="clear"></div>
-			<!-- <h3 id="presentation-video-header">Video de prezentare</h3>
-			<div id="presentation-video">
-				<iframe allow="fullscreen;" src="https://www.youtube.com/embed/_ge2doiWrH0"></iframe>
-			</div> -->
 		</div>
 	</section>
 
@@ -171,17 +166,12 @@
 			<div class="sixteen columns" data-scrollreveal="enter bottom and move 150px over 1s">
 				<h1><span>Kontakt</span></h1>
 				<div class="contact-data-wrap">
-					<!-- <p class="eight columns">
-						<i class="icon-contact1">&#xf095;</i>
-						<a href="tel:0767439439">0767 439 439</a>
-					</p> -->
 					<p class="contact-item text-align-left">
 						<i class="icon-contact1">&#xf095;</i>
 						<a href="tel:60627805">6062 7805</a>
 					</p>
-					<!-- <p><a target=_blank href="https://goo.gl/maps/8fSioDuxD2GWXHzB8"><i class="icon-contact1">&#xf041;</i>Strada Frumoasă 39, București 010986</a></p> -->
 					<p class="contact-item text-align-center">
-						<a href="mailto:kontakt@soclean.dk"><i class="icon-contact1">&#xf0e0;</i>kontakt@soclean.dk</a>
+						<a href="mailto:kontakt@cleancleaning.dk"><i class="icon-contact1">&#xf0e0;</i>CleanClean311@gmail.com</a>
 					</p>
 					<p class="contact-item text-align-right">
 						<i class="icon-contact1">&#xf073;</i> Man-Fre: 09:00–16:00
@@ -217,9 +207,7 @@
 				</div>
 			</div>	
 		</div>
-		<!-- <a class="button-map close-map"><span>Locate Us on Map</span></a> -->
 	</section>
-	<!-- <div id="google_map"></div> -->
 
 	<div id="footer">		
 		<div class="container">
