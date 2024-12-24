@@ -472,13 +472,18 @@ ul.slimmenu.collapsed li > ul {
 	position: absolute; 
 	top: 50%;
 	margin-top:55px;
-	color:#fff;
-	width: 100%;
+	color:var(--secondary-color);
+	width: auto;
 	font-family: var(--font-hand);
 	text-shadow: 0 0 5px rgba(0,0,0,0.1);
 	text-align:center;
 	font-size: 30px; 
 	line-height:25px;
+	background-color: rgba(255, 255, 255, .6);
+	padding: 15px;
+	border-radius: 5px;
+	left: 50%;
+	transform: translate(-50%,0);
 	z-index: 20; 
 }
 .flippy {
@@ -1095,7 +1100,7 @@ textarea {
 	z-index:100;
 	font-size: 22px;
 	line-height: 40px;
-	color: var(--ternary-color);
+	color: var(--secondary-color);
 	background: var(--primary-color-transparent);
 	-webkit-box-shadow: 0 -5px 15px -5px var(--primary-color);
 	-moz-box-shadow: 0 -5px 15px -5px var(--primary-color);
