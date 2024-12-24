@@ -142,4 +142,13 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
 .flaticon-quote:before {
   content: "";
 }
+
+.flaticon-dot {
+  background-image: url('./../../images/dot.png');
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  background-size: 60%;
+  background-repeat: no-repeat;
+}
 /*# sourceMappingURL=flaticon.css.map */

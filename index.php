@@ -85,7 +85,7 @@
 		<div class="container">
 			<div class="sixteen columns">
 			<h1><span>Hvorfor Clean Cleaning?</span></h1>
-				<div class="head-subtext"> Fordi vi er en gruppe betroede fagfolk, som går rigtig meget op i det kvalitetsniveau, vi tilbyder vores kunder.</div>
+				<div class="head-subtext">Hvis du søger rengøringshjælp til dit hjem, er CleanCleaning det ideelle valg. Vi tilbyder konkurrencedygtige priser, og vores rengøringsfolk er både omhyggelige og professionelle med fokus på detaljerne.</div>
 			</div>
 			<div class="clear"></div>
 			<article class="one-third column" data-scrollreveal="enter left and move 50px over 1s"> 
@@ -100,9 +100,10 @@
 						</div>
 						<div class="face back">
 							<!-- <p><b>Respect:</b> Ne alocăm timp pentru a înțelege necesitățile clienților noștri și respectăm alegerile acestora.</p> -->
-							<p><i class="flaticon-next"></i> Vi tilbyder professionel service uden de sædvanlige materielle bekymringer.</p>
-							<p><i class="flaticon-next"></i> Vi tjekker professionelles straffeattest.</p>
-							<p><i class="flaticon-next"></i> Vores lykkepolitik gør, at vores dygtige medarbejdere er glade for deres arbejde.</p>
+							<p><i class="flaticon-dot"></i> Hver dag, hver time med øjeblikkelig reservation.</p>
+							<p><i class="flaticon-dot"></i> Vi tilbyder professionel service uden de sædvanlige materielle bekymringer.</p>
+							<p><i class="flaticon-dot"></i> Vi tjekker professionelles straffeattest.</p>
+							<p><i class="flaticon-dot"></i> Vores lykkepolitik gør, at vores dygtige medarbejdere er glade for deres arbejde.</p>
 							<div class="layover">
 								<p>Tilbage</p>
 							</div>
@@ -121,9 +122,9 @@
 							</div>
 						</div>
 						<div class="face back">
-							<p><i class="flaticon-next"></i> Vores hygiejnestandarder sikrer et sundt miljø i dit hjem.</p>
-							<p><i class="flaticon-next"></i> Det er vigtigt for os at skabe et rent og behageligt opholdsrum.</p>
-							<p><i class="flaticon-next"></i> Vi stræber efter at gøre det nemmere for dig at holde dit hjem rent og indbydende.</p>
+							<p><i class="flaticon-dot"></i> Vores hygiejnestandarder sikrer et sundt miljø i dit hjem.</p>
+							<p><i class="flaticon-dot"></i> Det er vigtigt for os at skabe et rent og behageligt opholdsrum.</p>
+							<p><i class="flaticon-dot"></i> Vi stræber efter at gøre det nemmere for dig at holde dit hjem rent og indbydende, og vi vil sikre, at vi opfylder dine ønsker.</p>
 							<div class="layover">
 								<p>Tilbage</p>
 							</div>
@@ -132,7 +133,7 @@
 				</div>
 			</article>
 			<article class="one-third column" data-scrollreveal="enter left and move 50px over 1s"> 
-				<h3>Vores ydelser</h3>
+				<h3>Vi tilbyder</h3>
 				<div class="flipWrapper">
 					<div class="card">
 						<div class="face front">
@@ -142,13 +143,11 @@
 							</div>
 						</div>
 						<div class="face back">
-							<p><i class="flaticon-next"></i> Bolig rengøring</p>
-							<p><i class="flaticon-next"></i> Rengøring efter byggeri</p>
-							<p><i class="flaticon-next"></i> Rengøring efter renovering</p>
-							<p><i class="flaticon-next"></i> Rengøring før flytning</p>
-							<p><i class="flaticon-next"></i> Pudsning af vinduer / glas</p>
-							<p><i class="flaticon-next"></i> Sofavask</p>
-							<p><i class="flaticon-next"></i> Gulvtæppevask</p>
+							<p><i class="flaticon-dot"></i> Privatbolig rengøring / virksomheder</p>
+							<p><i class="flaticon-dot"></i> Rengøring efter byggeri / renovering</p>
+							<p><i class="flaticon-dot"></i> Rengøring før flytning</p>
+							<p><i class="flaticon-dot"></i> Pudsning af vinduer / glas</p>
+							<p><i class="flaticon-dot"></i> Sofavask</p>
 							<div class="layover">
 								<p>Tilbage</p>
 							</div>
