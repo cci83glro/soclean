@@ -9,24 +9,24 @@
 <head>
 
 	<meta charset="utf-8">
-	<title>Clean Cleaning | Rengøring</title>
+	<title>CleanCleaning | Rengøring</title>
 	
-	<meta name="description" content="Vi er en gruppe betroede fagfolk, som går rigtig meget op i det kvalitetsniveau, vi tilbyder vores kunder.">
+	<meta name="description" content="Hvis du søger rengøringshjælp til dit hjem, er CleanCleaning det ideelle valg. Vi tilbyder konkurrencedygtige priser, og vores rengøringsfolk er både omhyggelige og professionelle med fokus på detaljerne.">
 	<meta name="robots" content="max-image-preview:large">
 	<link rel="canonical" href="https://cleancleaning.dk/">
 	<meta property="og:locale" content="da_DK">
-	<meta property="og:site_name" content="Clean Cleaning | Rengøring">
+	<meta property="og:site_name" content="CleanCleaning | Rengøring">
 	<meta property="og:type" content="website">
-	<meta property="og:title" content="Clean Cleaning | Rengøring">
-	<meta property="og:description" content="Vi er en gruppe betroede fagfolk, som går rigtig meget op i det kvalitetsniveau, vi tilbyder vores kunder.">
+	<meta property="og:title" content="CleanCleaning | Rengøring">
+	<meta property="og:description" content="Hvis du søger rengøringshjælp til dit hjem, er CleanCleaning det ideelle valg. Vi tilbyder konkurrencedygtige priser, og vores rengøringsfolk er både omhyggelige og professionelle med fokus på detaljerne.">
 	<meta property="og:url" content="https://cleancleaning.dk/">
 	<meta property="og:image" content="https://cleancleaning.dk/images/logo.png">
 	<meta property="og:image:secure_url" content="https://cleancleaning.dk/images/logo.png">
 	<meta property="og:image:width" content="1000">
 	<meta property="og:image:height" content="250">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="Clean Cleaning | Rengøring">
-	<meta name="twitter:description" content="Vi er en gruppe betroede fagfolk, som går rigtig meget op i det kvalitetsniveau, vi tilbyder vores kunder.">
+	<meta name="twitter:title" content="CleanCleaning | Rengøring">
+	<meta name="twitter:description" content="Hvis du søger rengøringshjælp til dit hjem, er CleanCleaning det ideelle valg. Vi tilbyder konkurrencedygtige priser, og vores rengøringsfolk er både omhyggelige og professionelle med fokus på detaljerne.">
 	<meta name="twitter:image" content="https://cleancleaning.dk/images/logo.png">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1">
